@@ -1,0 +1,13 @@
+.Exp{
+    border-radius: 10px;
+    height: 180px;
+    width: 150px;
+    text-align: left;
+    background-color: blue;
+    color: aliceblue;
+}
+.Heading{
+    text-align: center;
+    color: yellow;
+
+}
